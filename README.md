@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![sendinblue block](sendinblue%20block.png)
+![sendinblue block](screenshots/sendinblue%20block.png)
 
 ## License
 

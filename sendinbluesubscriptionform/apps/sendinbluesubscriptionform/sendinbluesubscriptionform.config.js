@@ -1,15 +1,3 @@
-/**
- * 
- *
- * @license MIT
- *
- * @package sendinbluesubscriptionform
- * @version 1.0
- * @author  Roy Hadrianoro <dev@maysora.com>
- * @link    https://www.schlix.com
- */
-
-
 SCHLIX.Event.onDOMReady(function(){
   SCHLIX.Event.on('api_key_help','click',function(){
     var obj = SCHLIX.CMS.getObject('sendinblue-api-key-help-dialog');
